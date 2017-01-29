@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="commons-io-2.4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/data/libs/commons-io-2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/data/libs/mysql-connector-java-5.1.30-bin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
